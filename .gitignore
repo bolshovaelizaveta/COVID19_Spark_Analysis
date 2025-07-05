@@ -1,0 +1,23 @@
+# Игнорировать виртуальные окружения Python
+venv/
+.venv/
+
+# Игнорировать временные файлы PySpark/Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Игнорировать большие файлы данных, которые должны быть в HDFS
+data/                          
+metadata_cleaned.csv           
+metadata.parquet               
+covid_dataset/                 
+*.zip
+*.tar.gz
+*.csv
+*.json
+*.log
+*checkpoint* 
+
+# Docker-файлы
+*.env
