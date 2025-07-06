@@ -51,8 +51,12 @@
 
 ## Структура проекта
 ```
-├── covid_analysis.ipynb          # Основной Jupyter Notebook с полным циклом анализа данных
-├── presentation_images           # Презентация учебного проекта
+├── Covid_analysis.ipynb          # Основной Jupyter Notebook с полным циклом анализа данных 
+├── LogisticRegression.ipynb      # Jupyter Notebook с реализацией модели логистической регрессии
+├── RandomForestClassifier.ipynb  # Jupyter Notebook с реализацией модели случайного леса
+├── SparkSQL.ipynb                # Jupyter Notebook с примерами SQL-запросов на Spark SQL
+├── Сharts_covid.ipynb            # Jupyter Notebook с кодом для генерации всех визуализаций
+├── presentation_images/          # Папка с изображениями слайдов презентации
 ├── README.md                     # Этот файл с описанием проекта
 └── .gitignore                    # Файл для исключения временных файлов и больших данных из Git
 ```
