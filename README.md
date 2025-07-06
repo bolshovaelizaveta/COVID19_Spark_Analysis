@@ -162,3 +162,11 @@
 * **Дальнейшая оптимизация Hive/Spark:** Создание внешних таблиц Hive, использование агрегированных представлений (Materialized Views) для ускорения часто используемых отчетов.
 
 * **Интеграция компьютерного зрения:** Разработка и внедрение моделей **компьютерного зрения** для автоматической классификации самих медицинских изображений (рентгеновских снимков) на предмет патологий, что позволило бы создать более мощную и автоматизированную диагностическую систему.
+
+## Презентация
+![Слайд 1](https://drive.google.com/file/d/1mOgW2MUtyZGOUB_gCFcAW_SwVwZTg3Xl/view)
+![Слайд 2](https://drive.google.com/file/d/19XlZXRqAdE_5LrZdf4Qe4ejkry9t88Sp/view)
+![Слайд 3](https://drive.google.com/file/d/1o2KBadbBLY-c1mlT2aPKAy93Gp3yGzSS/view)
+![Слайд 4](https://drive.google.com/file/d/1Xv0NoQ4lp6UHSAY99goxV53jMa0ZoK0P/view)
+![Слайд 5](https://drive.google.com/file/d/1GWfRA5G8NXUAH1QEc6FG8W4SIn05Javp/view)
+![Слайд 6](https://drive.google.com/file/d/1yXWBySmThR7PhOQciqLSfC3jIJeMmxKc/view)
