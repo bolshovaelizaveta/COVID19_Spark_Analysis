@@ -52,6 +52,7 @@
 ## Структура проекта
 ```
 ├── covid_analysis.ipynb          # Основной Jupyter Notebook с полным циклом анализа данных
+├── presentation_images           # Презентация учебного проекта
 ├── README.md                     # Этот файл с описанием проекта
 └── .gitignore                    # Файл для исключения временных файлов и больших данных из Git
 ```
@@ -164,9 +165,9 @@
 * **Интеграция компьютерного зрения:** Разработка и внедрение моделей **компьютерного зрения** для автоматической классификации самих медицинских изображений (рентгеновских снимков) на предмет патологий, что позволило бы создать более мощную и автоматизированную диагностическую систему.
 
 ## Презентация
-![Слайд 1](https://drive.google.com/file/d/1mOgW2MUtyZGOUB_gCFcAW_SwVwZTg3Xl/view)
-![Слайд 2](https://drive.google.com/file/d/19XlZXRqAdE_5LrZdf4Qe4ejkry9t88Sp/view)
-![Слайд 3](https://drive.google.com/file/d/1o2KBadbBLY-c1mlT2aPKAy93Gp3yGzSS/view)
-![Слайд 4](https://drive.google.com/file/d/1Xv0NoQ4lp6UHSAY99goxV53jMa0ZoK0P/view)
-![Слайд 5](https://drive.google.com/file/d/1GWfRA5G8NXUAH1QEc6FG8W4SIn05Javp/view)
-![Слайд 6](https://drive.google.com/file/d/1yXWBySmThR7PhOQciqLSfC3jIJeMmxKc/view)
+![Слайд 1](presentation_images/1.png)
+![Слайд 2](presentation_images/2.png)
+![Слайд 3](presentation_images/3.png)
+![Слайд 4](presentation_images/4.png)
+![Слайд 5](presentation_images/5.png)
+![Слайд 6](presentation_images/6.png)
